@@ -2,6 +2,7 @@
 Visit at: https://notes-keep-frontend.vercel.app/
 
 Follow the steps below to run the application in your own local machine-:
+
 1. Clone or Download the repository in your own pc.
 2. Open it with a Code Editor like V.S. Code
 3. Open up the terminal and split it into two parts, one for client(Frontend) and the other for server(Backend)
