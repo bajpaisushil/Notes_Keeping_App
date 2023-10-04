@@ -1,6 +1,4 @@
 # notes-keeping-app
-Visit at: https://notes-keep-frontend.vercel.app/
-
 Follow the steps below to run the application in your own local machine-:
 
 1. Clone or Download the repository in your own pc.
